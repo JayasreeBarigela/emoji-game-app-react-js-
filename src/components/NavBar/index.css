@@ -1,0 +1,18 @@
+/* Write your code here. */
+.nav-container {
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+}
+.score-container {
+  display: flex;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+}
